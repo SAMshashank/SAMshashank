@@ -14,3 +14,76 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Shashank Kushwaha</h1>
+<h3 align="center">Front-End Developer | Web Enthusiast | Code & Coffee ☕</h3>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science (LPU, 2020–2024, CGPA: 7.75)
+- 🔍 Actively looking for an SDE (Front-End) opportunity
+- 💻 Passionate about creating scalable and responsive web apps
+- 🚀 I build: React Apps | Web3 Platforms | AI Tools | Dynamic UIs
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🔗 [**Genzee**](https://github.com/SAMshashank/Genzee): Web3 social media platform  
+  Tech: React.js, Solidity, Web3.js, Tailwind CSS
+
+- 🔗 [**Camro**](https://github.com/SAMshashank/Camro): AI-powered image editing tool  
+  Tech: React, OpenCV.js, AI APIs
+
+- 🔗 [**Dynamic Blockchain Website**](https://github.com/SAMshashank/Dynamic-Blockchain-Website): Real-time blockchain dashboard
+
+- 🔗 [**Portfolio Website**](https://github.com/SAMshashank/portfolio): My personal web presence
+
+---
+
+### 📜 Certifications
+
+- ☁️ **Cloud Computing** – IBM (via Edx)  
+- 🔧 **Data Structures & Algorithms (DSA)** – GeeksForGeeks  
+- 📜 **JavaScript** – Udemy  
+- ⚛️ **React** – CipherSchools  
+- 🛢️ **DBMS** – Infosys  
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **First Prize** in **Debate Contest** – 2021  
+- 🎤 Participated in **Made My Day Event** – 2020  
+- 🧠 Participated in **Amazon Alexa Skills Webinar** – 2020  
+- 🥈 **Second Prize** in **Hack-A-Thon by Programming Pathshala** – 2023  
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shashank-kushwaha-95789a238)
+- 🧑‍💻 [GitHub](https://github.com/SAMshashank)
+- 📧 Email: `shashank.kushwaha@example.com`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMshashank&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMshashank&layout=compact&theme=radical" />
+</p>
