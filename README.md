@@ -41,10 +41,11 @@ Here are some ideas to get you started:
   <!-- Extra Tech Skills -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="40" alt="Excel"/>
 </p>
+
 
 
 ---
