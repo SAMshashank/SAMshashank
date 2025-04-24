@@ -77,7 +77,35 @@ Here are some ideas to get you started:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shashank-kushwaha-95789a238)
 - 🧑‍💻 [GitHub](https://github.com/SAMshashank)
-- 📧 Email: `shashank.kushwaha@example.com`
+- 📧 Email: `shashankkushwaha123@gmail.com`
+
+---
+
+## 💼 Freelance Projects and college Projects
+
+📦 **Crypto Token Website**  
+Company site explaining their crypto token products.  
+Tech: HTML, CSS, JavaScript, jQuery
+
+📰 **AI Voice News Website**  
+AI-powered app that reads news out loud for busy users.  
+Tech: React, Bootstrap, Tailwind, Alan AI
+
+💹 **Dynamic Crypto Token Website**  
+Real-time crypto info with Binance API.  
+Tech: Vite React, Firebase, Tailwind, Binance API
+
+🎨 **AI Image Generator**  
+Generate art using DALL·E API prompts.  
+Tech: MERN Stack, DALL·E API
+
+🔒 **My Crypto Token on BSC**  
+Smart contract token site for a BSC-based product.  
+Tech: Solidity
+
+🌐 **Immersive Portfolio Website**  
+Three.js + React-based visual experience.  
+Tech: Vite React, Three.js, Tailwind, EmailJS API
 
 ---
 
