@@ -122,7 +122,7 @@ Tech: Vite React, Three.js, Tailwind, EmailJS API
 ### 📊 GitHub Stats
 
 <p align="center">
-  🚀 **Total Public Repositories:**  📁 <strong>15+</strong>  
+  🚀 **Total Public Repositories:**  📁 <strong>150+</strong>  
   <!-- You can update this number manually or script it if automated. -->
 </p>
 
